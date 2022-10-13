@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrFTO
+- 👋 Hi, I’m Anton.
 - 👀 I’m interested in cars, japan, front-end web development.
 - 🌱 I’m currently learning web-development
 - 📫 How to reach me ntoon@ya.ru
